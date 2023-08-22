@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "titulo": "Mantequilla de Maní",
+        "descripcion": "Mantequilla de Maní 100% natural y saludable",
+        "categoria": "Snacks",
+        "imagen": "https://supermercadosla80.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3gwa1E9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc31ca27f12446f19d88458229f97ba4e73dc913/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9TY21WemFYcGxYM1J2WDJacGRGc0hhUUlnQTJrQ0lBTTZER052Ym5abGNuUkpJZ2hxY0djR09nWkZWRG9LYzJGMlpYSjdDRG9NY1hWaGJHbDBlV2xmT2dwemRISnBjRlE2RDJKaFkydG5jbTkxYm1SYkNHa0IvMmtCLzJrQi93PT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f9b6205701877dad933126b17f2a1a57fbbba520/CREMA-MANI-NATURAL-720G-(1).png?locale=es",
+        "precio": 25000,
+        "stock": 10
+    },
+
+    {
+        "id": 2,
+        "titulo": "Arepa De Almojábana x6",
+        "descripcion": "Son hechas con procesos artesanales y con ingredientes 100% naturales. Son naturalmente libres de gluten.",
+        "categoria": "Refrigerados",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2021/10/12206-Arepa-De-Almojabana-x6-Unidades-La-Mary-Frente.jpg.jpg.png",
+        "precio": 19400,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Yogurt Griego x900Gr Sketos",
+        "descripcion": "Yogurt griego Natura Sin Dulce de Sketos es descremado ya que no aporta ningún gramo de grasa, es elaborado una base blanca y cremosa esta se genera por la extracción del suero mas no agregando espesantes o almidones.",
+        "categoria": "Refrigerados",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2021/03/4221-Yogurt-Griego-Descremado-Natural-Sin-Dulce-x900Gr-Sketos-Frente.jpg",
+        "precio": 33800,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Tortillas de harina de coco",
+        "descripcion": "Son unas deliciosas tortillas veganas, naturalmente libres de gluten y bajas en carbohidratos, que además son una buena fuente de fibra.",
+        "categoria": "Refrigerados",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2022/04/12555-Tortillas-De-Coco-x150Gr-Bodai-Frente-1.jpg",
+        "precio": 8800,
+        "stock": 12
+    },
+    {
+        "id": 5,
+        "titulo": "Marañon natural x250Gr",
+        "descripcion": "El marañon natural es rico en fibra, proteínas y diversos ácidos grasos ideales para reducir el colesterol.",
+        "categoria": "Snacks",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2021/01/2487-Maranon-Natural-x250Gr-Salugran-Frente.jpg",
+        "precio": 24500,
+        "stock": 8
+    },
+    {
+        "id": 6,
+        "titulo": "Brownie De Aguacate x40Gr",
+        "descripcion": "Exquisito brownie melcochudo de aguacate con arequipe de almendras. Sin ningún tipo de harinas, ni conservantes y endulzados con Stevia.",
+        "categoria": "Snacks",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2021/04/11041-Brownie-De-Aguacate-Sin-Remordimiento-X-40Gr-Frente.jpg",
+        "precio": 9900,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Choco Up Natural x40Gr",
+        "descripcion": "Morbi vel lectus in quam fringilla rhoncus.",
+        "categoria": "Snacks",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2022/03/WAKE-UP-CHOCO-UP-NATURAL-40G.jpg",
+        "precio": 5500,
+        "stock": 20
+    },
+    {
+        "id": 8,
+        "titulo": "Pan Trenza De Arroz x2",
+        "descripcion": "Elaborado con harina de arroz integral, claras de huevo, agua tratada, aceite de ajonjolí, sal baja en sodio y levadura de cerveza.",
+        "categoria": "Parva",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2021/04/9144-Pan-Trenza-De-Arroz-x2-unidades-Siempre-Natural-Frente.jpg",
+        "precio": 12900,
+        "stock": 15
+    },
+    {
+        "id": 9,
+        "titulo": "Pan Mini Algarrobo Con Cacao",
+        "descripcion": "El pan mini algarrobo con cacao de Dushi, es una línea completamente vegana, solo con harina de algarrobo que contiene múltiples beneficios como controlar el peso, muy buena cantidad de fibra, fuente de hierro, aporte de calcio, gran fuente de antioxidantes, efecto prebiótico, reducción de los niveles de colesterol en la sangre.",
+        "categoria": "Parva",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2021/06/mini-algarrobo-1.jpg",
+        "precio": 20500,
+        "stock": 10
+    },
+    
+    {
+        "id": 10,
+        "titulo": "Crispetas Mixtas x200Gr",
+        "descripcion": "Las crispetas saladas  marca Frunch son de 100% de maíz pira. Elaboradas con aceite de oliva y sal marina. Libres de gluten, sin colesterol. Deliciosas y muy crocantes.",
+        "categoria": "Snacks",
+        "imagen": "https://vitaintegral.co/wp-content/uploads/2021/04/11755-Crispetas-Mixtas-Dulces-Y-Saladas-x200Gr-Frunch-F.jpg",
+        "precio": 13500,
+        "stock": 17
+    }
+    
+]
